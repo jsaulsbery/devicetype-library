@@ -5,6 +5,7 @@ slug: juniper-ex2300-c-12p
 front_image: true
 rear_image: true
 u_height: 1
+comments: '[Juniper EX2300-C Hardware Guide](https://www.juniper.net/content/dam/www/assets/datasheets/us/en/switches/ex2300-c-compact-ethernet-switch-datasheet.pdf)'
 interfaces:
   - name: ge-0/0/0
     type: 1000base-t
